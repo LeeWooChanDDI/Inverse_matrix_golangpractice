@@ -1,7 +1,5 @@
-# Inverse_matrix_
+# Inverse_matrix (golang practice)
 
-golang practice
-
-==Introduce==
+=Introduce=
 
 This source code is Golang practice and learning in goorm!
